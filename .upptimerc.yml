@@ -1,23 +1,18 @@
 owner: samankhalife
 repo: upptime
+user-agent: samankhalife
 
 sites:
-
-  - name: Google
-    url: https://www.google.com
+  - name: Main Website
+    url: https://samankhalife.ir/
 
   - name: Wikipedia
     url: https://en.wikipedia.org
 
-  - name: Hacker News
-    url: https://news.ycombinator.com
-
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
   - name: POST to Google
     url: https://www.google.com
     method: POST
+
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
@@ -27,7 +22,6 @@ sites:
     check: "tcp-ping"
     url: dns.google
     port: 53
-
 
   - name: IPv6 test
     url: forwardemail.net
@@ -39,14 +33,11 @@ status-website:
   cname: upptime.samankhalife.ir
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Saman
+  introTitle: "Saman"
+  introMessage: Upptime Page
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
