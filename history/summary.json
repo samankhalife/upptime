@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1320,
-    "timeDay": 1320,
-    "timeWeek": 1320,
-    "timeMonth": 1320,
-    "timeYear": 1320,
+    "time": 1256,
+    "timeDay": 1256,
+    "timeWeek": 1256,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 1236,
-    "timeWeek": 1236,
-    "timeMonth": 1236,
-    "timeYear": 1236,
+    "time": 1361,
+    "timeDay": 1361,
+    "timeWeek": 1361,
+    "timeMonth": 1361,
+    "timeYear": 1361,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 1236,
-    "timeWeek": 1236,
-    "timeMonth": 1236,
-    "timeYear": 1236,
+    "time": 1361,
+    "timeDay": 1361,
+    "timeWeek": 1361,
+    "timeMonth": 1361,
+    "timeYear": 1361,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   }
 ]
