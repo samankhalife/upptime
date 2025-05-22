@@ -1,6 +1,6 @@
 owner: samankhalife
 repo: upptime
-user-agent: samankhalife
+
 
 sites:
   - name: Main Website
@@ -9,11 +9,8 @@ sites:
   - name: BLOG
     url: https://blog.samankhalife.ir
 
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
+  - name: BLOG
+    url: https://ixpp.ir
 
 status-website:
   theme: dark
