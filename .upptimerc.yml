@@ -4,10 +4,10 @@ user-agent: samankhalife
 
 sites:
   - name: Main Website
-    url: https://samankhalife.ir/
+    url: https://samankhalife.ir
 
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: BLOG
+    url: https://blog.samankhalife.ir
 
   - name: POST to Google
     url: https://www.google.com
@@ -23,11 +23,11 @@ sites:
     url: dns.google
     port: 53
 
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 
 status-website:
   cname: upptime.samankhalife.ir
