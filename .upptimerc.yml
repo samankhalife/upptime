@@ -9,20 +9,6 @@ sites:
   - name: BLOG
     url: https://blog.samankhalife.ir
 
-  - name: POST to Google
-    url: https://www.google.com
-    method: POST
-
-  - name: Google DNS 1
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
-
-  - name: Google DNS
-    check: "tcp-ping"
-    url: dns.google
-    port: 53
-
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
@@ -30,6 +16,7 @@ sites:
   #   ipv6: true
 
 status-website:
+  theme: dark
   cname: upptime.samankhalife.ir
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
