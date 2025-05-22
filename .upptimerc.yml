@@ -12,8 +12,8 @@ sites:
   - name: BLOG
     url: https://ixpp.ir
 
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Status Page
+    url: https://upptime.samankhalife.ir
 
 status-website:
   theme: dark
