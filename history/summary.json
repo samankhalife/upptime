@@ -22,19 +22,19 @@
     "url": "https://blog.samankhalife.ir",
     "icon": "https://icons.duckduckgo.com/ip3/blog.samankhalife.ir.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1536,
-    "timeDay": 1169,
-    "timeWeek": 1806,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1568,
+    "timeDay": 1545,
+    "timeWeek": 1880,
+    "timeMonth": 1568,
+    "timeYear": 1568,
     "dailyMinutesDown": {
-      "2025-06-09": 35
+      "2025-06-09": 56
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://ixpp.ir",
     "icon": "https://icons.duckduckgo.com/ip3/ixpp.ir.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1536,
-    "timeDay": 1169,
-    "timeWeek": 1806,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1568,
+    "timeDay": 1545,
+    "timeWeek": 1880,
+    "timeMonth": 1568,
+    "timeYear": 1568,
     "dailyMinutesDown": {
-      "2025-06-09": 35
+      "2025-06-09": 56
     }
   },
   {
