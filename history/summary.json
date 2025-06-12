@@ -22,9 +22,9 @@
     "url": "https://blog.samankhalife.ir",
     "icon": "https://icons.duckduckgo.com/ip3/blog.samankhalife.ir.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -34,6 +34,7 @@
     "timeMonth": 1787,
     "timeYear": 1787,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-06-09": 56
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://ixpp.ir",
     "icon": "https://icons.duckduckgo.com/ip3/ixpp.ir.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -54,6 +55,7 @@
     "timeMonth": 1787,
     "timeYear": 1787,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-06-09": 56
     }
   },
@@ -63,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.samankhalife.ir.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 716,
     "timeDay": 573,
     "timeWeek": 705,
